@@ -209,3 +209,4 @@ marimo/_lsp/
 __marimo__/
 
 echo "node_modules/" >> .gitignore
+echo "node_modules/" >> .gitignore
